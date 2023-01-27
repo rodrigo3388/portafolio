@@ -7,6 +7,9 @@ import app5 from "../../media/example.jpg";
 import app6 from "../../media/app2.png";
 import app7 from "../../media/app3.png";
 import app8 from "../../media/example.jpg";
+import app9 from "../../media/app7.png";
+import app10 from "../../media/app8.png";
+
 
 
 const projects = () => {
@@ -30,6 +33,63 @@ const projects = () => {
 
           </div>
 <hr/>
+<div className="row mt-3">
+
+          <div className="col-4">
+				<div className="card bg-dark text-white">
+					<img className="card-img-top" src={app10} alt=""/>
+					<div className="card-body">
+						<h5 className="card-title">Burger-App</h5>		
+
+						<div class="col-12">
+				<div class="d-flex gap-2 justify-content-center">
+					
+			
+							<a href="https://burger-page-rouge.vercel.app/" class="btn btn-danger">Web</a>
+
+						<a href="https://github.com/rodrigo3388/burger-page" class="btn btn-primary">GitHub</a>
+
+				</div>
+			</div>
+
+					</div>
+				</div>
+			</div>
+
+			<div className="col-4">
+				<div className="card bg-dark text-white">
+					<img className="card-img-top" src={app9} alt=""/>
+					<div className="card-body">
+						<h5 className="card-title">E-commerce</h5>		
+
+						<div class="col-12">
+				<div class="d-flex gap-2 justify-content-center">
+					
+			
+							<a href="https://e-commerce-roan-two.vercel.app/" class="btn btn-danger">Web</a>
+
+						<a href="https://github.com/rodrigo3388/e-commerce" class="btn btn-primary">GitHub</a>
+
+				</div>
+			</div>
+
+					</div>
+				</div>
+			</div>
+
+      <div className="col-4">
+				<div className="card">
+					<img className="card-img-top" src={app3} alt=""/>
+					<div className="card-body">
+						<h5 className="card-title">JournalApp</h5>
+						<a href="https://github.com/rodrigo3388/JournalApp" class="btn btn-outline-primary">GitHub</a>
+					</div>
+				</div>
+			</div>
+
+
+
+          </div>
           <div className="row mt-3">
 
           <div className="col-4">
