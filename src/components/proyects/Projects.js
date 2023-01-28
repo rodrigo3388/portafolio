@@ -46,9 +46,9 @@ const projects = () => {
 				<div class="d-flex gap-2 justify-content-center">
 					
 			
-							<a href="https://burger-page-rouge.vercel.app/" class="btn btn-danger">Web</a>
+							<a href="https://burger-page-rouge.vercel.app/" class="btn btn-fluid btn-danger">Web</a>
 
-						<a href="https://github.com/rodrigo3388/burger-page" class="btn btn-primary">GitHub</a>
+						<a href="https://github.com/rodrigo3388/burger-page" class="btn btn-fluid btn-primary">GitHub</a>
 
 				</div>
 			</div>
@@ -67,9 +67,9 @@ const projects = () => {
 				<div class="d-flex gap-2 justify-content-center">
 					
 			
-							<a href="https://e-commerce-roan-two.vercel.app/" class="btn btn-danger">Web</a>
+							<a href="https://e-commerce-roan-two.vercel.app/" class="btn btn-fluid btn-danger">Web</a>
 
-						<a href="https://github.com/rodrigo3388/e-commerce" class="btn btn-primary">GitHub</a>
+						<a href="https://github.com/rodrigo3388/e-commerce" class="btn btn-fluid btn-primary">GitHub</a>
 
 				</div>
 			</div>
@@ -82,15 +82,15 @@ const projects = () => {
 				<div className="card bg-dark text-white">
 					<img className="card-img-top" src={app11} alt=""/>
 					<div className="card-body">
-						<h5 className="card-title">E-commerce</h5>		
+						<h5 className="card-title">Crypto web</h5>		
 
 						<div class="col-12">
 				<div class="d-flex gap-2 justify-content-center">
 					
 			
-							<a href="https://crypto-web-nine.vercel.app/" class="btn btn-danger">Web</a>
+							<a href="https://crypto-web-nine.vercel.app/" class="btn btn-fluid btn-danger">Web</a>
 
-						<a href="https://github.com/rodrigo3388/crypto-web" class="btn btn-primary">GitHub</a>
+						<a href="https://github.com/rodrigo3388/crypto-web" class="btn btn-fluid btn-primary">GitHub</a>
 
 				</div>
 			</div>
