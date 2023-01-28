@@ -9,6 +9,7 @@ import app7 from "../../media/app3.png";
 import app8 from "../../media/example.jpg";
 import app9 from "../../media/app7.png";
 import app10 from "../../media/app8.png";
+import app11 from "../../media/app9.png";
 
 
 
@@ -77,12 +78,23 @@ const projects = () => {
 				</div>
 			</div>
 
-      <div className="col-4">
-				<div className="card">
-					<img className="card-img-top" src={app3} alt=""/>
+			<div className="col-4">
+				<div className="card bg-dark text-white">
+					<img className="card-img-top" src={app11} alt=""/>
 					<div className="card-body">
-						<h5 className="card-title">JournalApp</h5>
-						<a href="https://github.com/rodrigo3388/JournalApp" class="btn btn-outline-primary">GitHub</a>
+						<h5 className="card-title">E-commerce</h5>		
+
+						<div class="col-12">
+				<div class="d-flex gap-2 justify-content-center">
+					
+			
+							<a href="https://crypto-web-nine.vercel.app/" class="btn btn-danger">Web</a>
+
+						<a href="https://github.com/rodrigo3388/crypto-web" class="btn btn-primary">GitHub</a>
+
+				</div>
+			</div>
+
 					</div>
 				</div>
 			</div>
